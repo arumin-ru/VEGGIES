@@ -1,0 +1,7 @@
+h1 {text-align: center;}
+h1 {color: brown;}
+article p:first-child {
+    font-size: 120%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+article p1 {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+article p1 {font-style: italic;}
